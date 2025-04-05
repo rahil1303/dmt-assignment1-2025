@@ -41,7 +41,7 @@ The goal of this assignment is to demonstrate the practical application of data 
 
 - Angela – [student number]
 - Ivana – [student number]
-- Rahil – [student number]
+- Rahil – 2850828
 
 ---
 
