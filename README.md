@@ -32,8 +32,8 @@ The goal of this assignment is to demonstrate the practical application of data 
 
 ### 👥 Team
 
-- Angela – [student number]
-- Ivana – [student number]
+- Angela – 2782550
+- Ivana – 2862350
 - Rahil – 2850828
 
 ---
